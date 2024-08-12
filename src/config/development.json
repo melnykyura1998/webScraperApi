@@ -1,6 +1,6 @@
 {
   "env": "development",
-  "clientUrl": "http://localhost:3000",
+  "clientUrl": "https://web-scraper-front.vercel.app/",
   "port": {
     "app": 3021
   },

@@ -1,6 +1,6 @@
 {
   "env": "production",
-  "clientUrl": "https://app.zrost.ai",
+  "clientUrl": "https://web-scraper-front.vercel.app/",
   "port": {
     "app": 3001
   },
