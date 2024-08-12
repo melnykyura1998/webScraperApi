@@ -1,0 +1,9 @@
+{
+  "env": "development",
+  "clientUrl": "http://localhost:3000",
+  "port": {
+    "app": 3021
+  },
+  "scrapeUrl": "https://emma.maryland.gov/page.aspx/en/rfp/request_browse_public",
+  "scrapeUrlSingleBid": "https://emma.maryland.gov/mobile.aspx/en/bpm/process_manage_extranet/"
+}

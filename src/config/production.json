@@ -1,0 +1,9 @@
+{
+  "env": "production",
+  "clientUrl": "https://app.zrost.ai",
+  "port": {
+    "app": 3001
+  },
+  "scrapeUrl": "https://emma.maryland.gov/page.aspx/en/rfp/request_browse_public",
+  "scrapeUrlSingleBid": "https://emma.maryland.gov/mobile.aspx/en/bpm/process_manage_extranet/"
+}
